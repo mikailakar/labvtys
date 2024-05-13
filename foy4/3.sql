@@ -1,0 +1,1 @@
+Select [desc] from product_view where qty = 10
