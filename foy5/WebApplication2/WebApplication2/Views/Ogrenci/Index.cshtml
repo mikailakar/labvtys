@@ -1,0 +1,45 @@
+﻿@model List<Ogrenci>
+@{
+    ViewData["Title"] = "Öğrenci";
+}
+
+
+<h2 class="text-center mb-5">Öğrenciler</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="Ogrenci" asp-action="Create">Öğrenci Ekle</a>
+    </div>
+    <div class="col">
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Öğrenci ID</th>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Bölüm ID</th>
+            <th>İşlem</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var ogrenci in Model)
+        {
+            <tr>
+                <td>@ogrenci.ogrenciID</td>
+                <td>@ogrenci.ad</td>
+                <td>@ogrenci.soyad</td>
+                <td>@ogrenci.bolumID</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Ogrenci" asp-action="Edit" asp-route-id="@ogrenci.ogrenciID">Düzenle</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Ogrenci" asp-action="Delete"
+                       asp-route-id="@ogrenci.ogrenciID" onclick="return confirm('Silme işlemini onaylıyor musunuz?')">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

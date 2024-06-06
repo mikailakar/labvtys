@@ -1,0 +1,66 @@
+﻿@model IEnumerable<WebApplication2.Models.OgrenciDers>
+@{
+    ViewData["Title"] = "Öğrenci Ders";
+}
+
+
+<h2 class="text-center mb-5">ÖğrenciDersler</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="OgrenciDers" asp-action="Create">Öğrenciye Ders Ekle</a>
+    </div>
+    <div class="col">
+    </div>
+</div>
+    <div class="form-row">
+        <table>
+            <tr>
+                <form method="get" asp-action="Index">
+
+                <td style="padding-right:940px">
+                </td>
+                <td>
+                    <input class="form-control" type="text" placeholder="Oğrenci ara" name="SearchString" value="@ViewData["CurrentFilter"]" aria-label="Search" aria-describedby="btnNavbarSearch" />
+                </td>
+                <td>
+                    <input type="submit" value="Ara" class="btn btn-primary" />
+                </td>
+                </form>
+            </tr>
+        </table>
+    </div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Öğrenci ID</th>
+            <th>Ders ID</th>
+            <th>Yıl</th>
+            <th>Yarıyıl</th>
+            <th>Vize</th>
+            <th>Final</th>
+            <th>İşlem</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var ogrenciders in Model)
+        {
+            <tr>
+                <td>@ogrenciders.ogrenciID</td>
+                <td>@ogrenciders.dersID</td>
+                <td>@ogrenciders.yil</td>
+                <td>@ogrenciders.yariyil</td>
+                <td>@ogrenciders.vize</td>
+                <td>@ogrenciders.final</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="OgrenciDers" asp-action="Edit" asp-route-id="@ogrenciders.ogrenciDersID">Düzenle</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="OgrenciDers" asp-action="Delete"
+                       asp-route-id="@ogrenciders.ogrenciDersID" onclick="return confirm('Silme işlemini onaylıyor musunuz?')">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

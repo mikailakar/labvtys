@@ -1,0 +1,57 @@
+﻿@model OgrenciDersDto
+@{
+    ViewData["Title"] = "Öğrenci Ders Düzenle";
+}
+
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Öğrenciye Ders Düzenle</h2>
+
+
+        <form method="post">
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Öğrenci ID</label>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@ViewData["ogrenciID"]">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Ders ID</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="dersID">
+                    <span asp-validation-for="dersID" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Yıl</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="yil">
+                    <span asp-validation-for="yil" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Yarıyıl</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="yariyil">
+                    <span asp-validation-for="yariyil" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Düzenle</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" asp-controller="OgrenciDers" asp-action="Index" role="button">
+                        İptal
+                    </a>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>

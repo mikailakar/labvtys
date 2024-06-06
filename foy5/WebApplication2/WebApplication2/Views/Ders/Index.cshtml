@@ -1,0 +1,52 @@
+﻿@model IEnumerable<WebApplication2.Models.OgrenciDers>
+@{
+    ViewData["Title"] = "Ders";
+}
+
+
+<h2 class="text-center mb-5">Dersler</h2>
+
+<div class="form-row">
+    <table>
+        <tr>
+            <form method="get" asp-action="Index">
+
+            <td style="padding-right:940px">
+            </td>
+            <td>
+                <input class="form-control" type="text" placeholder="Yıl" name="SearchString" value="@ViewData["CurrentFilter"]" aria-label="Search" aria-describedby="btnNavbarSearch" />
+            </td>
+            <td>
+                <input class="form-control" type="text" placeholder="Yarıyıl" name="SearchStringt" value="@ViewData["CurrentFiltert"]" aria-label="Search" aria-describedby="btnNavbarSearch" />
+            </td>
+            <td>
+                <input type="submit" value="Ara" class="btn btn-primary" />
+            </td>
+            </form>
+        </tr>
+    </table>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ders ID</th>
+            <th>Yıl</th>
+            <th>Yarıyıl</th>
+            <th>Öğrenci Sayısı</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var ogrenciders in Model)
+        {
+            <tr>
+                <td>@ogrenciders.dersID</td>
+                <td>@ogrenciders.yil</td>
+                <td>@ogrenciders.yariyil</td>
+                <td>@ogrenciders.vize</td>
+            </tr>
+        }
+    </tbody>
+</table>

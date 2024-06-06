@@ -1,0 +1,43 @@
+﻿@model List<Bolum>
+@{
+    ViewData["Title"] = "Bölüm";
+}
+
+
+<h2 class="text-center mb-5">Bölümler</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="Bolum" asp-action="Create">Bölüm Ekle</a>
+    </div>
+    <div class="col">
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Bölüm ID</th>
+            <th>Bölüm Ad</th>
+            <th>Fakülte ID</th>
+            <th>İşlem</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var bolum in Model)
+        {
+            <tr>
+                <td>@bolum.bolumID</td>
+                <td>@bolum.bolumAd</td>
+                <td>@bolum.fakulteID</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Bolum" asp-action="Edit" asp-route-id="@bolum.bolumID">Düzenle</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Bolum" asp-action="Delete"
+                       asp-route-id="@bolum.bolumID" onclick="return confirm('Silme işlemini onaylıyor musunuz?')">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\controllers\\ogrenciderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ogrenciderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\ogrenciders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\ogrenciders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\models\\fakulte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\fakulte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\bolum\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\bolum\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\controllers\\bolumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\bolumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\bolum\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\bolum\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\ogrenci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\ogrenci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\not\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\not\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\ders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\ders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\controllers\\derscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\derscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\views\\not\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\not\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|c:\\users\\mikail\\source\\repos\\webapplication2\\webapplication2\\controllers\\notcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBF2F58-853C-4E17-B542-780AB237405E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\notcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Bolum\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Bolum\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Bolum\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Bolum\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:01:24.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Bolum\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Bolum\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Bolum\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Bolum\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:01:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:19:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Not\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Not\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Not\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Not\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T17:35:06.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotController.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\NotController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\NotController.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\NotController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\NotController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:30:56.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\OgrenciDers\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\OgrenciDers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\OgrenciDers\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\OgrenciDers\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:22:44.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciDersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OgrenciDersController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OgrenciDersController.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OgrenciDersController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OgrenciDersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:29:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:48:07.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BolumController.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\BolumController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\BolumController.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\BolumController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\BolumController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:01:35.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bolum.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Bolum.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Bolum.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Bolum.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Bolum.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:14:54.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fakulte.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Fakulte.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Fakulte.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Fakulte.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Fakulte.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:14:29.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Ogrenci.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Ogrenci.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:15:09.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Ders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Ders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Ders\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Ders\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:48:15.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\DersController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DersController.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\DersController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\DersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:45:26.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OgrenciController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:50:26.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Ogrenci\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Ogrenci\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Ogrenci\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:39:49.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T13:18:45.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Not\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Not\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Not\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Not\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T17:52:45.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:36:59.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:39:54.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
