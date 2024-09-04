@@ -4,7 +4,7 @@ Welcome to the `labvtys` repository, which contains a collection of various proj
 
 ## Projects Overview
 
-### 1. **Foy5**
+### - **Foy5**
 
 - **Description**: A simple web application built with ASP.NET Core. This project includes basic CRUD operations and integrates with a database to manage user data.
 - **Technologies Used**: 
@@ -18,7 +18,7 @@ Welcome to the `labvtys` repository, which contains a collection of various proj
 
 - **Directory**: `foy5/`
 
-### 2. **Foy6**
+### - **Foy6**
 
 - **Description**: A web application using Flask, MongoDB, and Redis to perform CRUD operations on both MongoDB documents and Redis key-value pairs.
 - **Technologies Used**: 
