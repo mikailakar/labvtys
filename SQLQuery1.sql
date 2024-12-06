@@ -1,0 +1,2 @@
+SELECT * FROM Nodes
+SELECT * FROM NodeStates
